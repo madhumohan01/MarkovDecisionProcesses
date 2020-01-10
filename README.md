@@ -11,16 +11,16 @@ This repository runs 3 Reinforcement Algorithms: Policy Iteration, Value Iterati
 ## Results Obtained
 Refer Analysis.pdf for more information on the results obtained.
 1. Cliff Walking Problem
-* Problem
+* Problem  
 ![Picture1](/results/Picture1.png)
-* Results
+* Results  
 ![Picture3](/results/Picture3.png)
 ![Picture4](/results/Picture4.png)
 ![Picture7](/results/Picture7.png)
 2. Frozen Lake Grid Problem
-* Problem
+* Problem  
 ![Picture2](/results/Picture2.png)
-* Results
+* Results  
 ![Picture5](/results/Picture5.png)
 ![Picture6](/results/Picture6.png)
 ![Picture8](/results/Picture8.png)
